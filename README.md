@@ -1,2 +1,5 @@
 # sanyam-lab-gifs
-Public GIFs for Craft notes on sanyam.sh/lab motion demos
+
+Screen recordings of [sanyam.sh/lab](https://sanyam.sh/lab) demos for Craft notes.
+
+Raw URLs: `https://raw.githubusercontent.com/Renewdxin/sanyam-lab-gifs/main/gifs/<name>.gif`
